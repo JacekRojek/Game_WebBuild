@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "mainText": "Louis V main text",
+    "optoins": [
+      {
+        "text": "1 option",
+        "load": 1
+      },
+      {
+        "text": "2 option",
+        "load": 2
+      },
+      {
+        "text": "3 option",
+        "load": 3
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "mainText": "Louis V option 1 chosed",
+    "optoins": [
+      {
+        "text": "1.1 option",
+        "load": 1
+      },
+      {
+        "text": "1.2 option",
+        "load": 2
+      }
+
+    ]
+  },
+  {
+    "id": 2,
+    "mainText": "Louis V  option 2 chosed",
+    "optoins": [
+      {
+        "text": "2.1 option",
+        "load": 21
+      },
+      {
+        "text": "2.2 option",
+        "load": 22
+      }
+    ]
+  },
+  {
+ "id": 3,
+  "mainText": "Louis V  option 3 chosed",
+  "optoins": [
+
+    {
+      "text": "3.1 option",
+      "load": 31
+    },
+    {"text": "3.2 option", "load": 32}
+  ]
+ }
+]

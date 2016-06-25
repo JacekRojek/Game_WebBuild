@@ -1,0 +1,168 @@
+[
+  {
+    "type": "weapon",
+    "id": 0,
+    "title": "machine gun",
+    "value": 6,
+    "stats": {
+      "damage": 2,
+      "fire rate": 5,
+        "weight": 200
+    },
+    "decription": "standard machine gun",
+    "stackable": false,
+    "rarity": 2,
+    "slug": "0_Gun_1"
+  },
+  {
+    "type": "weapon",
+    "id": 1,
+    "title": "laser gun",
+    "value": 4,
+    "stats": {
+      "damage": 5,
+      "fire rate": 1,
+      "weight": 200
+    },
+    "decription": "standard laser gun",
+    "stackable": false,
+    "rarity": 2,
+    "slug": "0_Gun_2"
+  },
+  {
+    "type": "weapon",
+    "id": 2,
+    "title": "double machine gun",
+    "value": 6,
+    "stats": {
+      "damage": 4,
+      "fire rate": 5,
+      "weight": 200
+    },
+    "decription": " double machine gun",
+    "stackable": false,
+    "rarity": 3,
+    "slug": "0_Gun_1"
+  },
+  {
+    "type": "weapon",
+    "id": 3,
+    "title": "cannon",
+    "value": 6,
+    "stats": {
+      "damage": 5,
+      "fire rate": 1,
+      "weight": 200
+    },
+    "decription": "standard cannon",
+    "stackable": false,
+    "rarity": 2,
+    "slug": "0_Gun_1"
+  },
+  {
+    "type": "weapon",
+    "id": 4,
+    "title": "double machine gun",
+    "value": 6,
+    "stats": {
+      "damage": 4,
+      "fire rate": 5,
+      "weight": 200
+    },
+    "decription": "double machine gun",
+    "stackable": false,
+    "rarity": 4,
+    "slug": "0_Gun_1"
+  },
+
+  {
+    "type": "weapon",
+    "id": 5,
+    "title": "cannon gun",
+    "value": 6,
+    "stats": {
+      "damage": 5,
+      "fire rate": 1,
+      "weight": 200
+    },
+    "decription": "rare cannon",
+    "stackable": false,
+    "rarity": 4,
+    "slug": "0_Gun_1"
+  },
+  {
+    "type": "weapon",
+    "id": 6,
+    "title": "laser beam",
+    "value": 6,
+    "stats": {
+      "damage": 3,
+      "fire rate": 3,
+      "weight": 200
+    },
+    "decription": "standard laser beam",
+    "stackable": false,
+    "rarity": 2,
+    "slug": "0_Gun_1"
+  },
+  {
+    "type": "engine",
+    "id": 7,
+    "title": "Basic Engine",
+    "value": 20,
+    "stats": {
+      "max speed": 300,
+      "fuel consumption": "low",
+      "weight": 200
+    },
+    "decription": "basic engine",
+    "stackable": false,
+    "rarity": 6,
+    "slug": "Gun_2"
+  }
+  ,
+  {
+    "type": "module",
+    "id": 8,
+    "title": "Control module",
+    "value": 20,
+    "stats": {
+      "agility": 6,
+      "weight": 200
+    },
+    "decription": "allow you to controle ship",
+    "stackable": false,
+    "rarity": 6,
+    "slug": "Gun_2"
+  }
+  ,
+  {
+    "type": "boost",
+    "id": 9,
+    "title": "booster",
+    "value": 20,
+    "stats": {
+      "max speed": 500,
+       "weight": 200
+    },
+    "decription": "provides short speed boost",
+    "stackable": false,
+    "rarity": 6,
+    "slug": "Gun_2"
+  }
+  ,
+  {
+    "type": "armor",
+    "id": 10,
+    "title": "plate armor",
+    "value": 30,
+    "stats": {
+      "weight": 200,
+      "armor": 100
+    },
+    "decription": "protect ship from damage",
+    "stackable": false,
+    "rarity": 2,
+    "slug": "Gun_2"
+  }
+]

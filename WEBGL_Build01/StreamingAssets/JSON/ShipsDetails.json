@@ -1,0 +1,28 @@
+[
+  {
+    "details": "first ship ",
+    "armor": 200,
+    "maxSpeed": 3,
+    "agility":2,
+    "cargo": 12,
+    "weight": 1000
+
+  },
+  {
+    "agility": 3,
+    "armor": 300,
+    "cargo": 15,
+    "details": "complete the game helping race 1 to unlock ",
+    "maxSpeed": 3,
+    "weight": 1100
+  },
+   {
+    "details": "complete the game helping race 2 to unlock ",
+    "armor": 100,
+    "maxSpeed": 2,
+    "agility":5,
+    "cargo": 10,
+    "weight": 800
+
+  }
+]

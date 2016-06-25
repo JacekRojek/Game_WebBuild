@@ -1,0 +1,48 @@
+[
+ {
+ "id": 0,
+ "title":"John",
+ "stats":  
+ {
+ "power":2,
+ "defence":5,
+ "vitality":2
+ },
+ "decription":"Male protagonist",
+ "slug":"Sprite_John"
+ },
+  {
+    "id": 1,
+    "title": "New Name",
+    "stats": {
+      "power": 6,
+      "defence": 2,
+      "vitality": 5
+    },
+    "decription": "another protagonist",
+    "slug": "Sprite_New Name"
+  },
+  {
+    "id": 2,
+    "title": "John",
+    "stats": {
+      "power": 2,
+      "defence": 5,
+      "vitality": 2
+    },
+    "decription": "Male protagonist",
+    "slug": "Sprite_John"
+  },
+   {
+ "id": 3,
+ "title":"John",
+ "stats":  
+ {
+ "power":2,
+ "defence":5,
+ "vitality":2
+ },
+ "decription":"Male protagonist",
+ "slug":"Sprite_John"
+ }
+]
